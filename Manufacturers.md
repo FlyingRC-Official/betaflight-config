@@ -60,6 +60,7 @@ This is the official list of manufacturer ids (`manufacturer_id` in the target c
 |FLMO|FlyMod|https://flymod.net/|
 |FLON|FlightOne|https://flightone.com/|
 |FLTE|FLYTEX LTD|https://www.flytex.pro/|
+|FLRC|FlyingRC|https://cs.flyingrc.cn/en|
 |FLWO|Flywoo|https://flywoo.net/|
 |FLYS|FlySpark|https://flyspark.in/|
 |FOXE|Foxeer|http://www.foxeer.com/|
