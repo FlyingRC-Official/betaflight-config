@@ -59,6 +59,7 @@ This is the official list of manufacturer ids (`manufacturer_id` in the target c
 |FLLF|Flying Lemon FPV|https://github.com/flyinglemonfpv|
 |FLMO|FlyMod|https://flymod.net/|
 |FLON|FlightOne|https://flightone.com/|
+|FLRC|FlyingRC|https://cs.flyingrc.cn/en|
 |FLTE|FLYTEX LTD|https://www.flytex.pro/|
 |FLWO|Flywoo|https://flywoo.net/|
 |FLYS|FlySpark|https://flyspark.in/|
